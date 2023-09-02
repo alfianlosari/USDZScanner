@@ -9,6 +9,12 @@ This is based on [Apple Object Capture Sample Code](https://developer.apple.com/
 - iPhone or iPad with a LiDAR Scanner and an A14 Bionic chip or later
 - iOS or iPadOS 17 or later
 
+## Installation
+
+### Swift Package Manager
+- File > Swift Packages > Add Package Dependency
+- Add https://github.com/alfianlosari/USDZScanner.git
+
 ## Usage
 
 Initialize USDZScanner passing the completion callback. The completion contains a parameter for the URL where it stored the USDZ file.
