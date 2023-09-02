@@ -2,7 +2,7 @@
 
 A SwiftUI USDZ Object Scanner for Capturing Real Life Objects and transforming to USDZ file using Photogrametry.
 
-This is based on [Apple Object Capture Sample Code](https://developer.apple.com/documentation/realitykit/guided-capture-sample)
+This is just a SPM wrapper based on the original [Apple Object Capture Sample Code](https://developer.apple.com/documentation/realitykit/guided-capture-sample) 
 
 ## Requirements
 
