@@ -22,6 +22,9 @@ You must add `Privacy - Camera Usage Description` permission in your App Info.pl
 Initialize USDZScanner passing the completion callback. The completion contains a parameter for the URL where it stored the USDZ file.
 
 ```swift
+import SwiftUI
+import USDZScanner
+
 @main
 struct SampleApp: App {
 
